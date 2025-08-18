@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Systems Analysis & Development student. <br>I enjoy working with Python, C#, HTML, CSS, and MySQL, building projects that combine logic, creativity, and real-world applications.<br>I’m passionate about technology and always eager to learn new tools, frameworks, and approaches to improve my skills.<br><br>Beyond coding, I like exploring game development 🎮, experimenting with interactive projects, and diving into how software can make people’s lives easier. I’m also dedicated to continuous learning and growth, with the goal of becoming a versatile developer who can work across different areas of technology.</p>
+<p align="left">I'm a Systems Analysis & Development Student. <br>I enjoy working with Python, C#, HTML, CSS, and MySQL, building projects that combine logic, creativity, and real-world applications.<br>I’m passionate about technology and always eager to learn new tools, frameworks, and approaches to improve my skills.<br><br>Beyond coding, I like exploring game development 🎮, experimenting with interactive projects, and diving into how software can make people’s lives easier. I’m also dedicated to continuous learning and growth, with the goal of becoming a versatile developer who can work across different areas of technology.</p>
 
 ###
 
